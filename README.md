@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omosalewap, an excel, SQL and power BI expert
+- 👋 Hi, I’m @Omosalewap, an excel, Python and power BI expert
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning the use of python
 - 💞️ I’m looking to collaborate on data analysis project
