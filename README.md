@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Omosalewap, an excel, Python and power BI expert
+- 👋 Hi, I’m @Omosalewap, a Python, Azure, and power BI expert
 - 👀 I’m interested in data science, AI/Machine Learning
-- 🌱 I’m currently learning the use of python
-- 💞️ I’m looking to collaborate on data science project
+- 🌱 I’m currently building and deploying machine learning models.
+- 💞️ I’m looking to collaborate on data science and machine learning projects
 - 📫 How to reach me; paulinerhoy@gmail.com | +2348146693854
 
 <!---
